@@ -1,0 +1,60 @@
+table{
+    border-collapse: collapse;
+}
+.o{
+    width: 10px;
+    height: 10px;
+}
+.dash_h{
+    height: 10px;
+    width: 80px;
+    background-color: yellow;
+}
+.dash_v{
+    height: 80px;
+    width: 10px;
+    background-color: yellow;
+}
+.available-dash:hover{
+    background-color: darkgoldenrod;
+}
+.cell{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+}
+.available-cell:hover{
+    background-color: darkorchid;
+}
+#board_section{
+    width: 50%;
+    float: left;
+    /* background-color: black; */
+}
+#player_section{
+    width: 40%;
+    float: left;
+    padding: 50px;
+
+}
+.wall{
+    background-color: black;
+}
+.selected-dash{
+    background-color: red;
+}
+.a-player{
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    margin: 10% 10%;
+}
+.player-1{
+    background-color: blue;
+}
+.player-2{
+    background-color: green;
+}
+#game-over, #restart-game{
+    display: none;
+}
