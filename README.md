@@ -23,5 +23,7 @@ Once you do one of these moves, it's the next player's turn
 
 ## Game Rules
 
-The player who reaches the other side wins. Your goal is block the other player from reaching it before you.
-You can place walls to divert his path but you are not allowed to block his path completely
+The player who reaches the other side wins. 
+
+Your goal is to block the other player from reaching it before you.
+You can place walls to divert their path but you are not allowed to block it completely
